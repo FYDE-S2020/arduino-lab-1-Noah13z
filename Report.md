@@ -64,7 +64,7 @@ Procedure A, step 1:
 ![Put path to your image here ->](img/ProcedureA.png)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/ProcedureAdimmer.png)
 
 Procedure B, UART:
 ![Put path to your image here ->](img/placeholder.png)
